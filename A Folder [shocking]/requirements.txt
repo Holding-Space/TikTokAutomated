@@ -1,0 +1,11 @@
+requests
+customtkinter
+g4f
+bs4
+plyer
+tkinter
+google-api-python-client
+github
+pytube
+moviepy
+requests_auth_aws_sigv4
