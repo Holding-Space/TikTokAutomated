@@ -60,7 +60,7 @@ def create_captions(): # Uses AI to create "compelling" captions so TikTok doesn
 
     def get_last_line_from_github_repo():
         repo_name = "" # Enter the Name of your GitHub Repo
-        file_path = "Mr Beast/UploadedVideos.txt" # Path to the .txt file
+        file_path = "" # Path to the .txt file
         github_token = "" # GitHub Token (Preferably one that can access private repos)
 
 
