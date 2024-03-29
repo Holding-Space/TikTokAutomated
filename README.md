@@ -56,7 +56,7 @@ Go to the main.py file then add the following:
 ![Clips Counted Screen](https://i.imgur.com/6EpjAHl.png)
 
 ![Gameplay Clips being made](https://i.imgur.com/glOYBIM.png)
-## Disclaimer
 
-This was made for educational purposes. Please use this reponsibly and I am not liable for any damages that could happen
+## Final Words
+This may or may not be against their terms of services so please **don't** use this. This was for educational purposes and should only be used lawfully. I am not held liable for any damages that may ensue or for the wrongful actions others may conduct with this.
 
